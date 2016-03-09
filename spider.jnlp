@@ -9,6 +9,9 @@
         <description>A simple Java based spider solitaire game</description>
         <offline-allowed/>
     </information>
+    <security>
+        
+    </security>
     <resources>
         <j2se version="1.5+"/>
             
