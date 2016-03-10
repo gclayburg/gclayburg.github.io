@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp
         spec="1.0+"
+        codebase="https://gclayburg.github.io/"
         href="spider.jnlp">
     <!-- codebase needed so that a user can save a jnlp file, and execute it later.  Java will use this location to find the jar files -->
     <information>
