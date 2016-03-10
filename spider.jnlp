@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp
         spec="1.0+"
+        codebase="https://gclayburg.github.io/"
         href="spider.jnlp">
     <information>
         <title>Clayburg Spider Solitaire</title>
@@ -10,7 +11,7 @@
         <offline-allowed/>
     </information>
     <security>
-        
+
     </security>
     <resources>
         <j2se version="1.5+"/>
